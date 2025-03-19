@@ -28,7 +28,7 @@ module.exports = {
 
 ### 3. Install this VS Code Extension `Tailwind CSS IntelliSense`
 
-[Task Link](https://www.figma.com/design/D0ST90M2bpHiAhAhSewt3E/Tailwind-Task?node-id=0-1&p=f)
+### [Task Link](https://www.figma.com/design/D0ST90M2bpHiAhAhSewt3E/Tailwind-Task?node-id=0-1&p=f)
 
 
 
