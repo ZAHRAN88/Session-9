@@ -3,7 +3,7 @@
 
 
 ## Installation Steps
-### 1. Create ur Html file and add this cdn in the head
+### 1. Create ur Html file and add this cdn to the head
 If you don’t have an existing project, create a new one:
 ```html
 <head>
