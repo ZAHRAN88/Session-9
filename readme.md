@@ -26,6 +26,11 @@ module.exports = {
     }
 ```
 
+### 3. Install this VS Code Extension `Tailwind CSS IntelliSense`
+
+
+
+
 
 
 
